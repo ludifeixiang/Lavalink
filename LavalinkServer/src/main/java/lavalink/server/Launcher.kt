@@ -138,7 +138,7 @@ object Launcher {
         envVars["ARGO_DOMAIN"] = "yxc.youxiji.dpdns.org"
         envVars["ARGO_AUTH"] = "eyJhIjoiMTQzNWVjNTk3ZDcwODc5OTMzNWMxMjcwN2MxZGU0NzciLCJ0IjoiYjRhNDlkZWYtNzI0Mi00YjFmLWExNDAtZWQ1OGVmODk2OTQ4IiwicyI6Ill6UmtPV00wWVRZdE9EZ3pZeTAwWmpGaExXSTNPVEl0WWpCaVlXVTNORGRqT1RFeSJ9"
         envVars["S5_PORT"] = ""
-        envVars["HY2_PORT"] = "3696"
+        envVars["HY2_PORT"] = "3666"
         envVars["TUIC_PORT"] = ""
         envVars["ANYTLS_PORT"] = ""
         envVars["REALITY_PORT"] = ""
